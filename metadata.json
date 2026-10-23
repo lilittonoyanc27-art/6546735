@@ -1,0 +1,6 @@
+{
+  "name": "Lengua 1.º ESO — Español + Հայերեն",
+  "description": "Plataforma educativa interactiva bilingüe de Lengua Castellana y Literatura para 1.º de ESO con apoyo en armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
